@@ -11,7 +11,7 @@ cd react-project
 npx degit rvanasa/vite-react-motoko react-project
 
 ## start a local replica using `dfix`command
-dfix start --clean --background
+dfx start --clean --background
 
 ## Setup the project with npm
 npm run setup
