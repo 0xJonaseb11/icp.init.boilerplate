@@ -1,6 +1,7 @@
 # icp.init.boilerplate
 
 ## About
+A Decentralized application built on `Internet Computer Protocol` | Boilerplate
 
 ### Getting started
 
